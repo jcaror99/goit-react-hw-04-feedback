@@ -1,0 +1,16 @@
+.statistics {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h2 {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+ul {
+  display: flex;
+  flex-direction: column;
+}
